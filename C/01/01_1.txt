@@ -1,0 +1,24 @@
+a) scanf(“d”, vrednost);
+
+Pred d fali znakot %, i pred vrednost fali adresniot operator &.
+Pravilno: scanf("%d", &vrednost);
+
+b) printf(“Proizvodot na %d i %d e %d”\n, x, y);
+
+\n treba da bide vnatre vo navodnicite, i fali uste edna promenliva odnosno x * y.
+Pravilno: printf("Proizvodot na %d i %d e %d \n", x, y, x * y);
+
+c) prvBroj + vtorBroj = sumaBroevi
+
+Fali na krajot ;.
+Pravilno: prvBroj + vtorBroj = sumaBroevi;
+
+d) */ Programata naogja maksimum od dva broja/*
+
+Pogresno e napisan komentarot.
+Pravilno: /* Programata naogja maksimum od dva broja */
+
+e) Scanf(”%d”, &nekojBroj);
+
+pogresno e napishan scanf, odnosno treba da zapocne so mala bukva s.
+Pravilno: scanf("%d", &nekojBroj);

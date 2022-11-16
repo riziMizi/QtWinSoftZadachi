@@ -1,0 +1,8 @@
+10_1 ) 
+
+Dokolku prviot argument nema dovolna golemina moze da nastane greshka, odnosno da nema mesto da se smestat site
+karakteri od nizata od kade sto kopirame.
+
+10_2)
+
+Vtoriot argument e deklariran kako const char * poradi toa shto od ovoj string kopirame, shto znachi deka ne treba da se menuva.
